@@ -1,14 +1,14 @@
-#Tema yang saya ambil Kreativitas dan Seni
+# Tema yang saya ambil Kreativitas dan Seni
 
 Judul yang saya buat sesuai tema yang di atas
 
-#Analisis Pembuatan Tas Dari Bungkus Kopi
+# Analisis Pembuatan Tas Dari Bungkus Kopi
 
 Rumusan masalah 
 
 Masalah Utama: Bagaimana cara membuat tas yang kuat dan estetis dengan menggunakan bungkus kopi sebagai bahan utama?
 
-#Tantangan:
+# Tantangan:
 
 Kekuatan dan Ketahanan: Bungkus kopi biasanya terbuat dari kertas atau bahan plastik tipis, sehingga perlu penguatan agar tas dapat 
 digunakan dalam jangka panjang.
@@ -17,14 +17,14 @@ Desain Estetis: Menggabungkan bungkus kopi yang biasanya bermotif menjadi desain
 
 Pengolahan dan Pemotongan: Bagaimana memotong dan menjahit bungkus kopi dengan ukuran yang tepat tanpa merusak desain atau tekstur bahan.
 
-#Tujuan:
+# Tujuan:
 Membuat tas dengan menggunakan bungkus kopi secara optimal, memilih bagian-bagian bungkus kopi yang sesuai dengan kebutuhan desain tas dan memaksimalkan penggunaan bahan.
 
 di sini saya menggunakan algoritma gredy untuk memecahkan masalah
 
-#Algoritma Greedy untuk Pembuatan Tas dari Bungkus Kopi
+# Algoritma Greedy untuk Pembuatan Tas dari Bungkus Kopi
 
-#1. Input:
+# 1. Input:
 
 Bungkus Kopi: Sekumpulan bungkus kopi yang tersedia untuk digunakan (misalnya, ukuran dan motif bungkus kopi).
 
@@ -32,7 +32,7 @@ Desain Tas: Desain tas yang ingin dibuat (misalnya, tas jinjing, tas selempang, 
 
 Ukuran Tas: Dimensi tas yang akan dibuat (panjang, lebar, tinggi) dan bagian-bagian yang perlu dipotong (misalnya, sisi depan, belakang, bawah, pegangan).
 
-#2. Proses:
+# 2. Proses:
 Langkah 1: Urutkan Bungkus Kopi Berdasarkan Ukuran dan Motif
 
 Prioritas pertama: Pilih bungkus kopi yang memiliki ukuran terbesar terlebih dahulu. Ini akan mengurangi jumlah pemotongan yang diperlukan.
@@ -60,10 +60,10 @@ material ini mungkin lebih rapuh.
 Langkah 5: Finishing
 Tambahkan pegangan atau tali tas jika diperlukan, dan pastikan tas memiliki ketahanan yang cukup untuk digunakan.
 
-#3. Output:
+# 3. Output:
 Tas yang telah selesai dibuat, terbuat dari potongan-potongan bungkus kopi yang dipilih secara optimal berdasarkan algoritma greedy.
 
-#Contoh Penerapan Algoritma Greedy:
+# Contoh Penerapan Algoritma Greedy:
 Misalnya, kita ingin membuat tas jinjing dengan komponen:
 
 Bagian depan tas: 300 cm x 200 cm
@@ -89,7 +89,7 @@ Gunakan Bungkus Kopi C untuk bagian bawah tas karena ukurannya cocok (300 cm x 1
 Langkah 4: Gabungkan dan jahit bagian-bagian tas.
 
 
-#Keuntungan Algoritma Greedy dalam Kasus Ini:
+# Keuntungan Algoritma Greedy dalam Kasus Ini:
 
 Efisiensi: Dengan memilih bagian terbesar yang tersedia terlebih dahulu, kita memaksimalkan penggunaan ruang dan mengurangi pemborosan.
 
